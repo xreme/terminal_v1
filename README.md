@@ -1,5 +1,5 @@
   # TERMINAL V1
-  ![Picture of the Terminal](/IMAGES/terminal1.jpg)
+  ![Picture of the Terminal](https://github.com/xreme/terminal_v1/blob/main/images/terminal1.jpg )
 <!-- LOGO GOES HERE
 <br />
  -->
